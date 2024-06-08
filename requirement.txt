@@ -5,5 +5,5 @@ keras
 streamlit
 tensorflow 
 matplotlib
-sklearn
+scikit-learn
 shapely
