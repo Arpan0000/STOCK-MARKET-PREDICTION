@@ -1,10 +1,9 @@
 numpy 
 pandas 
 yfinance
-keras.models import load_model
+keras
 streamlit
 tensorflow 
-matplotlib.pyplot 
-sklearn.preprocessing import MinMaxScaler
-sklearn.metrics import r2_score 
-shapely.geometry import LineString 
+matplotlib
+sklearn
+shapely
